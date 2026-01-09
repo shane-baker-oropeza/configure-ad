@@ -225,47 +225,38 @@ of “jane_admin” / Password1
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="452" height="579" alt="Screenshot 2026-01-07 183502" src="https://github.com/user-attachments/assets/5f9d1314-4761-4b07-9649-d784f388ae91" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="439" height="563" alt="Screenshot 2026-01-07 183529" src="https://github.com/user-attachments/assets/2f4672be-80b1-4898-a16f-df702aa8c316" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="478" height="577" alt="Screenshot 2026-01-07 183550" src="https://github.com/user-attachments/assets/2aaa23bc-d62a-49d5-bbc7-7fa555c3dd9a" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="482" height="574" alt="Screenshot 2026-01-07 183557" src="https://github.com/user-attachments/assets/3a592f28-2776-4de0-8a43-b1f5b093f7ac" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="444" height="587" alt="Screenshot 2026-01-07 183610" src="https://github.com/user-attachments/assets/6c7bc91b-ce96-444c-a1e9-87e96e89a9f0" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="405" height="497" alt="Screenshot 2026-01-07 183905" src="https://github.com/user-attachments/assets/fe97078b-be4b-46a2-ad18-e6aa936427ae" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="459" height="446" alt="Screenshot 2026-01-07 183926" src="https://github.com/user-attachments/assets/c8b9308f-a444-41f0-b4f0-faaea3fb4bb8" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -281,43 +272,99 @@ of “jane_admin” / Password1
 
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2051" height="525" alt="Screenshot 2026-01-07 184232" src="https://github.com/user-attachments/assets/a9c7ab53-f803-43ce-b363-354182729e5f" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="413" height="265" alt="Screenshot 2026-01-07 184259" src="https://github.com/user-attachments/assets/724d7044-05e6-4d52-b8e0-8426b120de3b" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="460" height="421" alt="Screenshot 2026-01-07 184313" src="https://github.com/user-attachments/assets/2eaece23-441d-4f3d-bc6e-00d21800cb11" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1196" height="920" alt="Screenshot 2026-01-07 184815" src="https://github.com/user-attachments/assets/0858d8fe-30e1-44de-8504-e4ac4dbba63a" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1038" height="557" alt="Screenshot 2026-01-07 184843" src="https://github.com/user-attachments/assets/a030f276-bdda-4891-ad47-d1f84bf186c0" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="434" height="491" alt="Screenshot 2026-01-07 184924" src="https://github.com/user-attachments/assets/22849d6c-d0a5-4653-8062-a3d8ae5bff0f" />
+
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="486" height="322" alt="Screenshot 2026-01-07 185108" src="https://github.com/user-attachments/assets/0a185ca7-3987-426d-8c54-4251b91d156c" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="300" height="179" alt="Screenshot 2026-01-07 185121" src="https://github.com/user-attachments/assets/a50df264-20af-4993-9059-5355bf5570da" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="357" height="189" alt="Screenshot 2026-01-07 185132" src="https://github.com/user-attachments/assets/1b5c91c9-a165-44c3-a46d-16442d6b6851" />
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="351" height="173" alt="Screenshot 2026-01-07 185159" src="https://github.com/user-attachments/assets/2e35812a-5afe-4299-94c5-4eae935eab5b" />
+
+</p>
+
+<p>
+<img width="835" height="702" alt="Screenshot 2026-01-07 185251" src="https://github.com/user-attachments/assets/82d25b0d-3b37-4123-aae7-60902ea30ca2" />
+
+</p>
+
+<p>
+<img width="827" height="685" alt="Screenshot 2026-01-07 185258" src="https://github.com/user-attachments/assets/954a9045-8323-40e2-a3fd-c5d6042d5720" />
+
+</p>
+
+<p>
+<img width="1222" height="536" alt="Screenshot 2026-01-07 185356" src="https://github.com/user-attachments/assets/653ee335-baeb-4e14-a4b8-c248fd2debbd" />
+
+</p>
+
+<p>
+<img width="1226" height="570" alt="Screenshot 2026-01-07 185412" src="https://github.com/user-attachments/assets/b206b09f-6f76-47d1-9a34-84e5a400da51" />
+
+</p>
+
+<p>
+<img width="1231" height="560" alt="Screenshot 2026-01-07 185453" src="https://github.com/user-attachments/assets/ca5ad165-1f98-4e12-8857-65fc35b3f8f5" />
+
+</p>
+
+<p>
+<img width="545" height="563" alt="Screenshot 2026-01-07 185521" src="https://github.com/user-attachments/assets/fbaaf2b4-c68d-4355-bbf6-e80599753c45" />
+
+</p>
+
+<p>
+<img width="1252" height="576" alt="Screenshot 2026-01-07 185554" src="https://github.com/user-attachments/assets/6bf8207b-f914-4d43-b910-271c8a02e056" />
+
+</p>
+
+<p>
+<img width="1225" height="561" alt="Screenshot 2026-01-07 185714" src="https://github.com/user-attachments/assets/f347aa0c-0af4-4444-b55d-b2835abd71c6" />
+
+</p>
+
+<p>
+<img width="1229" height="563" alt="Screenshot 2026-01-07 185722" src="https://github.com/user-attachments/assets/212b723d-957b-4d78-a8b3-44942eac0a45" />
+
 </p>
 <br />
 
