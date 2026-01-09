@@ -445,15 +445,13 @@ of the users</h3>
 
 - Open PowerShell_ise as an administrator
 
-- Create a new File and paste the contents of this script( into it
+- Create a new File and paste the contents of this [SCRIPT](https://github.com/shane-baker-oropeza/misc/blob/main/generate-names-create-users) into it
 
-- Run the script and observe the accounts being created
+- Run the [SCRIPT](https://github.com/shane-baker-oropeza/misc/blob/main/generate-names-create-users) and observe the accounts being created
 
-- When finished, open ADUC and observe the accounts in the appropriate OU
-(_EMPLOYEES)
+- When finished, open ADUC and observe the accounts in the appropriate OU (_EMPLOYEES)
 
-- Attempt to log into Client-1 with one of the accounts (take note of the password in
-the script)
+- Attempt to log into Client-1 with one of the accounts (take note of the password in the script)
 
 
 <br />
