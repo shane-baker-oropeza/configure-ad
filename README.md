@@ -22,7 +22,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Step 1: Install Active Directory
 
-- [Create an Admin and Normal User Account in AD](#step-2-create-an-admin-and-normal-user-account-in-ad) 
+- Step 2: Create an Admin and Normal User Account in AD 
 
 - Step 3: Join Client-1 to your domain (mydomain.com)
 
@@ -67,7 +67,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-###Step 2: Create a Domain Admin user within the domain
+<h3> Step 2: Create a Domain Admin user within the domain</h3>
 
 - In Active Directory Users and Computers (ADUC), create an Organizational Unit
 (OU) called “_EMPLOYEES”
