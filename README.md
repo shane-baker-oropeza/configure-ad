@@ -505,6 +505,12 @@ of the users</h3>
 <img width="782" height="619" alt="Screenshot 2026-01-09 160402" src="https://github.com/user-attachments/assets/a7e9e6b1-a1e1-4f79-9538-412f96bdcc1d" />
 
 </p>
+<br />
+
+**The PowerShell script creates up to 10,000 random Active Directory user accounts using randomly generated first and last names, assigning each user the same password (Password1). It uses a function to create realistic-looking names and then runs a loop to call New-AdUser to create each account in a specific OU called _EMPLOYEES.**
+
+</p>
+<br />
 
 <p>
 <img width="744" height="846" alt="Screenshot 2026-01-09 160418" src="https://github.com/user-attachments/assets/946087b8-bdb0-4614-800c-000242f5c9c7" />
