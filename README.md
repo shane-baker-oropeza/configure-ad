@@ -445,7 +445,7 @@ of the users</h3>
 
 - Open PowerShell_ise as an administrator
 
-- Create a new File and paste the contents of the script into it
+- Create a new File and paste the contents of this script( into it
 
 - Run the script and observe the accounts being created
 
