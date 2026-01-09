@@ -67,7 +67,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-###<h3> Step 2: Create a Domain Admin user within the domain</h3>
+###Step 2: Create a Domain Admin user within the domain
 
 - In Active Directory Users and Computers (ADUC), create an Organizational Unit
 (OU) called “_EMPLOYEES”
