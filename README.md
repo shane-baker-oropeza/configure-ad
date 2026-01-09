@@ -43,27 +43,144 @@ remember what it is)
 - Restart and then log back into DC-1 as user: mydomain.com\labuser
 
 <br />
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1841" height="587" alt="Screenshot 2026-01-07 175822" src="https://github.com/user-attachments/assets/57450151-8522-46d8-b976-6667d841a167" />
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="448" height="270" alt="Screenshot 2026-01-07 175859" src="https://github.com/user-attachments/assets/e5edfbfe-7cab-4501-9fa5-186c070d7303" />
 </p>
-<br />
+
+<p>
+<img width="665" height="680" alt="Screenshot 2026-01-07 180208" src="https://github.com/user-attachments/assets/8810c444-ea60-41fa-985e-8349b7d07509" />
+</p>
+
+<p>
+<img width="1255" height="769" alt="Screenshot 2026-01-07 180249" src="https://github.com/user-attachments/assets/a68769e9-30f0-46ff-ad84-80300f35b171" />
+</p>
+
+<p>
+<img width="807" height="575" alt="Screenshot 2026-01-07 180343" src="https://github.com/user-attachments/assets/bd09a2af-c97d-4280-bb44-1f5725214366" />
+</p>
+
+<p>
+<img width="825" height="575" alt="Screenshot 2026-01-07 180350" src="https://github.com/user-attachments/assets/c191c466-4b8e-43b8-8b77-b16cee06c93e" />
+</p>
+
+<p>
+<img width="829" height="591" alt="Screenshot 2026-01-07 180405" src="https://github.com/user-attachments/assets/df222072-7fd5-4ba1-882e-07e9b46e2564" />
+</p>
+
+<p>
+<img width="825" height="575" alt="Screenshot 2026-01-07 180448" src="https://github.com/user-attachments/assets/6209c4b3-ae35-4c8f-8ada-3cf1f8a37684" />
+</p>
+
+<p>
+<img width="808" height="571" alt="Screenshot 2026-01-07 180501" src="https://github.com/user-attachments/assets/8f52d596-9881-4fad-a38e-6e8b71b6fe0c" />
+</p>
+
+<p>
+<img width="829" height="581" alt="Screenshot 2026-01-07 180508" src="https://github.com/user-attachments/assets/c9bb5793-4a4e-4e20-aadf-cb48f3acf1a3" />
+
+</p>
+
+<p>
+<img width="1318" height="571" alt="Screenshot 2026-01-07 180542" src="https://github.com/user-attachments/assets/91d058cf-3609-40c4-a951-3545f680a03a" />
+</p>
+
+<p>
+<img width="1041" height="452" alt="Screenshot 2026-01-07 180758" src="https://github.com/user-attachments/assets/bed4209e-7334-4a76-a4e4-807a98b5031f" />
+
+</p>
+
+<p>
+<img width="787" height="565" alt="Screenshot 2026-01-07 180837" src="https://github.com/user-attachments/assets/b2fcfcf8-4476-4eb6-a6c5-e3e3e6ebf16f" />
+
+</p>
+
+<p>
+<img width="786" height="566" alt="Screenshot 2026-01-07 180900" src="https://github.com/user-attachments/assets/ee6411b0-ae7f-4232-adb0-ba231ea07ef9" />
+
+</p>
+
+<p>
+<img width="781" height="575" alt="Screenshot 2026-01-07 180950" src="https://github.com/user-attachments/assets/9c3db561-af29-49ef-8a50-85957a880829" />
+
+</p>
+
+<p>
+<img width="793" height="577" alt="Screenshot 2026-01-07 180958" src="https://github.com/user-attachments/assets/9bffab60-761a-4d2e-a35c-72cab20f4b05" />
+
+</p>
+
+<p>
+<img width="780" height="574" alt="Screenshot 2026-01-07 181047" src="https://github.com/user-attachments/assets/c056daab-c6b9-4628-8963-753f04e94565" />
+
+</p>
+
+<p>
+<img width="790" height="580" alt="Screenshot 2026-01-07 181054" src="https://github.com/user-attachments/assets/b9071b8c-df5a-4282-aae5-5b341bcf15ef" />
+
+</p>
+
+<p>
+<img width="778" height="573" alt="Screenshot 2026-01-07 181117" src="https://github.com/user-attachments/assets/d4bb29de-5d5c-4b72-a698-6017ed799c06" />
+
+</p>
+
+<p>
+<img width="785" height="584" alt="Screenshot 2026-01-07 181145" src="https://github.com/user-attachments/assets/b9224b9c-ff1c-4436-911e-5a1fa06845e1" />
+
+</p>
+
+<p>
+<img width="1443" height="821" alt="Screenshot 2026-01-07 181413" src="https://github.com/user-attachments/assets/be45f443-a73d-4740-9c2f-f9ca0ffcafb8" />
+
+</p>
+
+<p>
+<img width="422" height="247" alt="Screenshot 2026-01-07 181444" src="https://github.com/user-attachments/assets/61a1900d-ce77-4b31-aad9-e52dc6a7fe21" />
+
+</p>
+
+<p>
+<img width="467" height="571" alt="Screenshot 2026-01-07 182120" src="https://github.com/user-attachments/assets/e7498052-5e3a-4bbe-a3b8-8773ecf5c2f0" />
+
+</p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
