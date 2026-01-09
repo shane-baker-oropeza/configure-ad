@@ -22,7 +22,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Step 1: Install Active Directory
 
-- Step 2: Create an Admin and Normal User Account in AD 
+- Step 2: Create a Domain User within the Domain 
 
 - Step 3: Join Client-1 to your domain (mydomain.com)
 
